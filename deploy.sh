@@ -7,10 +7,10 @@
 # ---------------------------------------------------------------------------
 set -euo pipefail
 
-GH_ORG="haaga-helia-sko"
+GH_ORG="hho-ry"
 GH_REPO="uutiset"
-ROOT_REPO="haaga-helia-sko.github.io"
-GH_USER="jusju"
+ROOT_REPO="hho-ry.github.io"
+GH_USER="juhanurmonen"
 BRANCH="gh-pages"
 SRC_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 HOST_ALIAS="gh-uutiset"
